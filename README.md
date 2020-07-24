@@ -20,4 +20,7 @@
 
 ## 6. Connect to MyCrypto 
 
+*Enter Network details and Use the Nodes Addresses
+
+![MyCrypto](images/MyCrypto.png)
 
