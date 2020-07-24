@@ -1,10 +1,23 @@
 # Blockchain_Homework
 
 ## 1. Create Network using puppeth 
-![Genesis Block](images/GenesisBlock.png)
 
-## 2. Using geth create 2 nodes on the network
+![GenesisBlock](images/GenesisBlock.png)
+
+## 2. Create 2 nodes on the network
+
 ## 3. Initialize each node to the network "pinknet.json"
 
-![Genesis Block](images/InitNodes.png)
+![InitializeNodes](images/InitNodes.png)
+
+## 4. Start Mining Node 1 
+
+![MineNode1](images/MiningNode1.png)
+
+## 5. Start Mining Node 2 in separate terminal
+
+![MineNode2](images/MiningNode2.png)
+
+## 6. Connect to MyCrypto 
+
 
